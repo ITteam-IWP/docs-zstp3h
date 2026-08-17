@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-8kd38o.kujang138bos.online/sitemap.xml
